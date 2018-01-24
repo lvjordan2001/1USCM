@@ -6,10 +6,10 @@
     "characteristics": [
       "95 rds",
       "bug stomper",
-      "standard USCM artillery",
+      "standard USCM artillery"
       ],
       "Capacity": "95",
-      "image": "https://www.thegreenhead.com/imgs/aliens-m41a-pulse-rifle-10.jpg",
+      "image": "https://www.thegreenhead.com/imgs/aliens-m41a-pulse-rifle-10.jpg"
     },
     {
     "name": "M56A2",
@@ -17,10 +17,10 @@
     "characteristics": [
       "IR tracking",
       "95% accuracy",
-      "gun team",
+      "gun team"
       ],
       "Capacity": "500",
-      "image": "https://hips.hearstapps.com/pop.h-cdn.co/assets/17/02/1484165279-screen-shot-2017-01-11-at-30748-pm.png",
+      "image": "https://hips.hearstapps.com/pop.h-cdn.co/assets/17/02/1484165279-screen-shot-2017-01-11-at-30748-pm.png"
     },
     {
      "name": "M240A1",
@@ -28,24 +28,20 @@
      "characteristics": [
        "flames",
        "standard issue",
-       "exde",
+       "exde"
        ],
        "Capacity": "2l canister",
-       "image": "https://www.hollywood-collectibles.com/store/images/D/13-01.jpg",
+       "image": "https://www.hollywood-collectibles.com/store/images/D/13-01.jpg"
     },
     {
     "name": "M3",
     "system": "Armor",
-    "characteristics:" [
-      "Saves a Marine's life",
-      "Standard issue",
-      "Camo",
-      ]
+    "characteristics": [
+      "Saves a Marines life",
+      "standard issue",
+      "camo"
+      ],
       "Capacity": "Bandolier",
-      "image": "https://vignette.wikia.nocookie.net/avp/images/8/83/M3_Pattern_Personal_Armor.png/revision/latest?cb=20141117025752",
-    },
+      "image": "https://vignette.wikia.nocookie.net/avp/images/8/83/M3_Pattern_Personal_Armor.png/revision/latest?cb=20141117025752"
+    }
 }
-     
-
-      
-    
