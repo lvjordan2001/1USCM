@@ -8,30 +8,30 @@
       "bug stomper",
       "standard USCM artillery"
       ],
-      "Capacity": "95",
+      "Holds": "95 rd",
       "image": "https://www.thegreenhead.com/imgs/aliens-m41a-pulse-rifle-10.jpg"
     },
     {
-    "name": "M56A2",
-    "system": "Smart Technology",
+    "name": "M10",
+    "system": "Ballistic helmet",
     "characteristics": [
-      "IR tracking",
-      "95% accuracy",
-      "gun team"
+      "IR visor",
+      "Camera",
+      "Steel"
       ],
-      "Capacity": "500",
-      "image": "https://hips.hearstapps.com/pop.h-cdn.co/assets/17/02/1484165279-screen-shot-2017-01-11-at-30748-pm.png"
+      "Holds": "Anything from cards to goggles",
+      "image": "http://forum.alienslegacy.com/download/file.php?id=15281&sid=9d6693b0184709c0d43f4354769172bc"
     },
     {
-     "name": "M240A1",
-     "system": "Incinerator",
+     "name": "M314",
+     "system": "Motion Tracker",
      "characteristics": [
-       "flames",
-       "standard issue",
-       "exde"
+       "Goes ping",
+       "Tracks Xenomorphs",
+       "Useful to see where people are"
        ],
-       "Capacity": "2l canister",
-       "image": "https://www.hollywood-collectibles.com/store/images/D/13-01.jpg"
+       "Holds": "A sling",
+       "image": "https://s-media-cache-ak0.pinimg.com/originals/a3/24/bb/a324bb5eeea184ca893180b716dcf909.jpg"
     },
     {
     "name": "M3",
@@ -41,7 +41,7 @@
       "standard issue",
       "camo"
       ],
-      "Capacity": "Bandolier",
+      "Holds": "Bandolier",
       "image": "https://vignette.wikia.nocookie.net/avp/images/8/83/M3_Pattern_Personal_Armor.png/revision/latest?cb=20141117025752"
     }
   ]
