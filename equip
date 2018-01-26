@@ -43,9 +43,17 @@
       ],
       "Holds": "Bandolier",
       "image": "https://vignette.wikia.nocookie.net/avp/images/8/83/M3_Pattern_Personal_Armor.png/revision/latest?cb=20141117025752"
-    }
+    },
     {
     "name": "The USCM",
+    "system": "Space Marines",
+    "characteristics": [
+      "Saves colonies",
+      "Endanger alien species",
+      "Best fighting force in the American Arm"
+      ],
+      "Holds": "As many Marines as there are",
+      "image": "https://vignette.wikia.nocookie.net/fiction-wrestling-multiverse/images/8/8b/Colonial_Marines_logo.png/revision/latest?cb=20140819151005"
     }
   ]
 }
