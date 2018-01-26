@@ -5,15 +5,15 @@
     "system": "Pulse Rifle",
     "characteristics": [
       "95 rds",
-      "bug stomper",
-      "standard USCM artillery"
+      "Bug Stomper",
+      "Standard USCM artillery"
       ],
       "Holds": "95 rd",
       "image": "https://www.thegreenhead.com/imgs/aliens-m41a-pulse-rifle-10.jpg"
     },
     {
     "name": "M10",
-    "system": "Ballistic helmet",
+    "system": "Ballistic Helmet",
     "characteristics": [
       "IR visor",
       "Camera",
@@ -38,8 +38,8 @@
     "system": "Armor",
     "characteristics": [
       "Saves a Marines life",
-      "standard issue",
-      "camo"
+      "Standard issue",
+      "Camo"
       ],
       "Holds": "Bandolier",
       "image": "https://vignette.wikia.nocookie.net/avp/images/8/83/M3_Pattern_Personal_Armor.png/revision/latest?cb=20141117025752"
