@@ -45,6 +45,17 @@
       "image": "https://vignette.wikia.nocookie.net/avp/images/8/83/M3_Pattern_Personal_Armor.png/revision/latest?cb=20141117025752"
     },
     {
+    "name": "UD4-L Cheyenne",
+    "system": "Dropship",
+    "characteristics": [
+       "100 missiles / rockets",
+       "2 pilots",
+       "Minigun"
+       ],
+       "Holds": "10 Marines and an M577 APC (15 marine capacity) (25 Marines total)",
+       "image": "https://pbs.twimg.com/media/A7ha2UgCYAExcL2.jpg"
+    },
+    {
     "name": "The USCM",
     "system": "Space Marines",
     "characteristics": [
